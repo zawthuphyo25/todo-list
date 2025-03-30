@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "f6fb",
+      "task": "Learn Html, Css",
+      "complete": true
+    },
+    {
+      "id": "15d8",
+      "task": "Tailwind Css",
+      "complete": true
+    },
+    {
+      "id": "bfe8",
+      "task": "Learn Js, Es6+",
+      "complete": true
+    },
+    {
+      "id": "2f8f",
+      "task": "Git/GitHub",
+      "complete": true
+    },
+    {
+      "id": "23cc",
+      "task": "Vue, Vuex",
+      "complete": true
+    },
+    {
+      "id": "0c46",
+      "task": "Learn Php",
+      "complete": false
+    },
+    {
+      "id": "0ba9",
+      "task": "Laravel",
+      "complete": false
+    }
+  ]
+}
